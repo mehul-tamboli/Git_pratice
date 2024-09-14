@@ -1,2 +1,7 @@
 this is first file.
 Add another files to folder and commit it.
+
+git remote -v
+git remote add origin https://github.com/mehul-tamboli/Git_pratice.git
+
+git push origin main
