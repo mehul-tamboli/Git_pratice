@@ -5,3 +5,11 @@
 ``` bash
 npm install
 ```
+
+```
+git remote -v origin main
+```
+
+```
+git push -u origin main
+```
